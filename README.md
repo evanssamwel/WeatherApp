@@ -9,6 +9,4 @@ Features include:
 - Weather details (Moon/Sun rise/set, humidity, etc..)
 - Select city
 - Mini weather widgets for your desktop
-### IF DESIGNER FAILS TO LOAD ###
-
 Enjoy. 
